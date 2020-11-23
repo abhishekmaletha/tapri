@@ -1,0 +1,7 @@
+{"menu_items":[	
+	{"id":41,"short_name":"BV1","category":"BV","name":"Feeki chai","description":"A freshning cup of darjeeling tea with a slice of lemon and discreet choice of sugar","price_small":30,"price_large":60,"small_portion_name":"3-sips","large_portion_name":"7-sips"},
+	{"id":42,"short_name":"BV2","category":"BV","name":"Nariyal pani","description":"A virgin sip of coconut water can boost you for the whole day. Freshly transported narirals from coasts of Kerela","price_small":40,"price_large":80,"small_portion_name":"3-sips","large_portion_name":"7-sips"},
+	{"id":43,"short_name":"BV3","category":"BV","name":"Bournvita","description":"If you are visiting the Tapri with you kids, then if sure will attract them ","price_small":40,"price_large":80,"small_portion_name":"small","large_portion_name":"big"},
+	{"id":44,"short_name":"BV4","category":"BV","name":"Dabur shilajit gold","description":"Agar aap din bhar ke shram ke baad thake thake mehsoos krte ho, to so jao bhsdiwalo. Ye mat lena","price_small":150,"price_large":300,"small_portion_name":"half","large_portion_name":"full"}
+
+]}

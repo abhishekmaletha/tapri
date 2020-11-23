@@ -1,0 +1,8 @@
+{"menu_items":[	
+	{"id":21,"short_name":"L1","category":"L","name":"Chensu","description":"A grainy dish made out of grinded lentils, then fried in desi ghee - A garhwali savoury","price_small":80,"price_large":160,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":22,"short_name":"L2","category":"L","name":"Moong dal (bimar)","description":"An overcooked gooey non-newtonian slime fluid made out moong dal...moong dal tates like heaven with alcohol but when you are sick....","price_small":70,"price_large":120,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":23,"short_name":"L3","category":"L","name":"GB road ki rabdi","description":"A sweet(katai meetha) dish made out of dry rasgulla soaked in almond cardamom condensed milk","price_small":50,"price_large":100,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":24,"short_name":"L4","category":"L","name":"mutton-e-DATA","description":"This dish is a kind contribution of a NITUK alumni during the night before his DSA exam.................what is data?","price_small":120,"price_large":230,"small_portion_name":"half","large_portion_name":"full"}
+	]
+}
+

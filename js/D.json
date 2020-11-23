@@ -1,0 +1,7 @@
+{"menu_items":[	
+	{"id":31,"short_name":"D1","category":"D","name":"Aunty ke momo","description":"A chef once was inpired by the song - 'bol na aunty aaun kya' and then this dish was born.","price_small":60,"price_large":110,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":32,"short_name":"D2","category":"D","name":"Dal makhkhi","description":"A buttery letil dish, cooked over slow flame for 3 hours, with north indian spices and garnish with fresh trapped house flies","price_small":120,"price_large":230,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":33,"short_name":"D3","category":"D","name":"Nepali pizza","description":"A moti roti with layered with desi camel's ghee and fileld with goat cheeze in each layer, topeed with veggies of nepal","price_small":100,"price_large":190,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":34,"short_name":"D4","category":"D","name":"Mess ka zeher","description":"When every dish in the menu is filled with love of mess wrokers,then plan pops otta nowhere to go to tapri","price_small":10000,"price_large":50,"small_portion_name":"half","large_portion_name":"full"}
+	]
+}

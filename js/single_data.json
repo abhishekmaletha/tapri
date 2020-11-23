@@ -1,0 +1,23 @@
+{"menu_items":[
+	{"id":11,"short_name":"B1","category":"B","name":"Bread omlet","description":"3 desi eggs whisked firmly with organic herbs from himalayas and hand made mixed salt + veggies served with whole wheat bread","price_small":50,"price_large":80,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":12,"short_name":"B2","category":"B","name":"Aalu paratha","description":"A spicy paratha with potato masal stuffing, fried in camel's milk ghee and served with pudina, tamatar and coconut chutney","price_small":60,"price_large":100,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":13,"short_name":"B3","category":"B","name":"Kellogs' muesli","description":"This is specially for urban nibbis who want to post status' having oat meat and  feeling fit with mai and 69 others","price_small":50,"price_large":90,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":14,"short_name":"B4","category":"B","name":"Maggi Maggi Maggi","description":"A highly controversial dish made with special ingredients like water and in packed masala which takes immense time and efforts","price_small":50,"price_large":80,"small_portion_name":"half","large_portion_name":"full"},
+
+    {"id":21,"short_name":"L1","category":"L","name":"Chensu","description":"A grainy dish made out of grinded lentils, then fried in desi ghee - A garhwali savoury","price_small":80,"price_large":160,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":22,"short_name":"L2","category":"L","name":"Moong dal (bimar)","description":"An overcooked gooey non-newtonian slime fluid made out moong dal...moong dal tates like heaven with alcohol but when you are sick....","price_small":70,"price_large":120,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":23,"short_name":"L3","category":"L","name":"GB road ki rabdi","description":"A sweet(katai meetha) dish made out of dry rasgulla soaked in almond cardamom condensed milk","price_small":50,"price_large":100,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":24,"short_name":"L4","category":"L","name":"mutton-e-DATA","description":"This dish is a kind contribution of a NITUK alumni during the night before his DSA exam.................what is data?","price_small":120,"price_large":230,"small_portion_name":"half","large_portion_name":"full"},
+    
+    {"id":31,"short_name":"D1","category":"D","name":"Aunty ke momo","description":"A chef once was inpired by the song - 'bol na aunty aaun kya' and then this dish was born.","price_small":60,"price_large":110,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":32,"short_name":"D2","category":"D","name":"Dal makhkhi","description":"A buttery letil dish, cooked over slow flame for 3 hours, with north indian spices and garnish with fresh trapped house flies","price_small":120,"price_large":230,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":33,"short_name":"D3","category":"D","name":"Nepali pizza","description":"A moti roti with layered with desi camel's ghee and fileld with goat cheeze in each layer, topeed with veggies of nepal","price_small":100,"price_large":190,"small_portion_name":"half","large_portion_name":"full"},
+	{"id":34,"short_name":"D4","category":"D","name":"Mess ka zeher","description":"When every dish in the menu is filled with love of mess wrokers,then plan pops otta nowhere to go to tapri","price_small":10000,"price_large":50,"small_portion_name":"half","large_portion_name":"full"},
+
+
+    {"id":41,"short_name":"BV1","category":"BV","name":"Feeki chai","description":"A freshning cup of darjeeling tea with a slice of lemon and discreet choice of sugar","price_small":30,"price_large":60,"small_portion_name":"3-sips","large_portion_name":"7-sips"},
+	{"id":42,"short_name":"BV2","category":"BV","name":"Nariyal pani","description":"A virgin sip of coconut water can boost you for the whole day. Freshly transported narirals from coasts of Kerela","price_small":40,"price_large":80,"small_portion_name":"3-sips","large_portion_name":"7-sips"},
+	{"id":43,"short_name":"BV3","category":"BV","name":"Bournvita","description":"If you are visiting the Tapri with you kids, then if sure will attract them ","price_small":40,"price_large":80,"small_portion_name":"small","large_portion_name":"big"},
+	{"id":44,"short_name":"BV4","category":"BV","name":"Dabur shilajit gold","description":"Agar aap din bhar ke shram ke baad thake thake mehsoos krte ho, to so jao bhsdiwalo. Ye mat lena","price_small":150,"price_large":300,"small_portion_name":"half","large_portion_name":"full"}
+
+]}
